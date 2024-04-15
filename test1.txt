@@ -1,3 +1,5 @@
 cos
 development
 zmiana1
+print('hello')
+
